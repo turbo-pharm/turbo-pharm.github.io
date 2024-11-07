@@ -2,7 +2,8 @@
 body{background-color:#ccc;}
 
 h1 {
-  color: blue;
+  color: red;
+  font-size: 30px;
 }
 
 /*  display:block;width:600px;height:600px;stroke:#000; */
